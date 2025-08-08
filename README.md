@@ -2,10 +2,6 @@
 
 # Problem Definition
 
-#  Project Development Process
-
-# Problem Definition
-
 - Identified the need for a computer vision model capable of classifying Indian satellite dish brands (e.g., Tata Sky, DishTV, Airtel Digital TV) by detecting logos on dish antennas.
 
 - Chose this as a unique, real-world challenge with no publicly available dataset, and with added complexity due to worn-out or unclear branding on the dishes.
